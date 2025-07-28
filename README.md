@@ -104,10 +104,10 @@ The repository is organized into four main directories:
 If you use the ScIRGen-Geo dataset in your research, please cite our paper as follows:
 
 ```bibtex
-@inproceedings{
-  lin2025scirgen,
+@article{lin2025scirgen,
   title={ScIRGen: Synthesize Realistic and Large-Scale RAG Dataset for Scientific Research},
-  author={Junyong Lin and Lu Dai and Ruiqian Han and Yijie Sui and Ruilin Wang and Xingliang Sun and Qinglin Wu and Min Feng and Hao Liu and Hui Xiong},
+  author={Lin, Junyong and Dai, Lu and Han, Ruiqian and Sui, Yijie and Wang, Ruilin and Sun, Xingliang and Wu, Qinglin and Feng, Min and Liu, Hao and Xiong, Hui},
+  journal={arXiv preprint arXiv:2506.11117},
   year={2025}
 }
 ```
